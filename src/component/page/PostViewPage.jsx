@@ -45,7 +45,7 @@ const ContentText = styled.p`
 
 const CommentLabel = styled.p`
     font-size: 16px;
-    font-weigth:500;
+    font-weight:500;
 `;
 
 function PostViewPage(props){

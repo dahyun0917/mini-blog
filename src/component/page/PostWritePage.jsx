@@ -41,7 +41,7 @@ function PostWritePage(props){
                     }}
                 />
                 <TextInput
-                    height={280}
+                    height={480}
                     value={content}
                     onChange={(event)=>{
                         setContent(event.target.value);

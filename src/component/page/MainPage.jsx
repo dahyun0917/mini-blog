@@ -36,7 +36,7 @@ function MainPage(props) {
                 <Button
                     title="글 작성하기"
                     onClick={() => {
-                        navigate(`/post-write`);
+                        navigate("/post-write");
                     }}
                 />
                 <PostList
